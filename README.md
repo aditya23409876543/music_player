@@ -93,12 +93,6 @@ dec_project/
 
 ---
 
-## 📸 Screenshots
-
-*(Placeholder for screenshots of the UI)*
-
----
-
 ## 🔮 Future Enhancements
 *   [ ] Add "Shuffle" and "Repeat" functionality.
 *   [ ] Implement a search bar for the playlist.
