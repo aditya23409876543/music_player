@@ -107,4 +107,3 @@ dec_project/
 
 ---
 
-Made with ❤️ by [Your Name]
